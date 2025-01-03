@@ -22,8 +22,3 @@ Starting from 2025, I aim to consistently work on algorithmic problems every day
 
 ---
 
-### Notes
-
-- Solutions from previous years (2024 and earlier) are also part of this repository.
-- I'll continue to add more problems and solutions as I progress in 2025.
-- Feel free to explore and suggest improvements or alternative approaches!
