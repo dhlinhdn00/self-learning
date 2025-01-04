@@ -1,9 +1,9 @@
 # Count Vowel Strings in Ranges
 
 ## Link
-Index: 2559
+Index: 2270
 
-Link: https://leetcode.com/problems/count-vowel-strings-in-ranges/description/?envType=daily-question&envId=2025-01-02
+Link: https://leetcode.com/problems/number-of-ways-to-split-array/description/?envType=daily-question&envId=2025-01-03
 
 ## Problem Description
 You are given a 0-indexed array of strings `words` and a 2D array of integers `queries`.
