@@ -1,10 +1,11 @@
 # Maximum Score After Splitting a String
 
 ## Link
+Index: 1422
+
 https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/?envType=daily-question&envId=2025-01-01
 
 ## Problem Description
-
 Given a string `s` of zeros and ones, the goal is to return the maximum score after splitting the string into two non-empty substrings (i.e., left substring and right substring).
 
 The score after splitting a string is calculated as:
