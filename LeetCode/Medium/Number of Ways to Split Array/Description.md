@@ -1,4 +1,4 @@
-# Count Vowel Strings in Ranges
+# Number of Ways to Split Array
 
 ## Link
 Index: 2270
@@ -6,49 +6,33 @@ Index: 2270
 Link: https://leetcode.com/problems/number-of-ways-to-split-array/description/?envType=daily-question&envId=2025-01-03
 
 ## Problem Description
-You are given a 0-indexed array of strings `words` and a 2D array of integers `queries`.
 
-Each query `queries[i] = [li, ri]` asks us to find the number of strings present in the range `li` to `ri` (both inclusive) of `words` that start and end with a vowel.
+You are given a 0-indexed integer array `nums` of length `n`.
 
-Return an array `ans` of size `queries.length`, where `ans[i]` is the answer to the `i`th query.
+`nums` contains a valid split at index `i` if the following are true:
+1. The sum of the first `i + 1` elements is greater than or equal to the sum of the last `n - i - 1` elements.
+2. There is at least one element to the right of `i`. That is, `0 <= i < n - 1`.
 
-Note that the vowel letters are `'a'`, `'e'`, `'i'`, `'o'`, and `'u'`.
-
----
+Return the number of valid splits in `nums`.
 
 ### Example 1:
-**Input**:  
-`words = ["aba", "bcb", "ece", "aa", "e"]`  
-`queries = [[0,2], [1,4], [1,1]]`  
-
-**Output**:  
-`[2, 3, 0]`
-
-**Explanation**:  
-- The strings starting and ending with a vowel are `"aba"`, `"ece"`, `"aa"`, and `"e"`.  
-- The answer to the query `[0,2]` is `2` (strings `"aba"` and `"ece"`).  
-- The answer to the query `[1,4]` is `3` (strings `"ece"`, `"aa"`, and `"e"`).  
-- The answer to the query `[1,1]` is `0`.
-
----
+**Input:** nums = [10,4,-8,7]  
+**Output:** 2  
+**Explanation:**  
+There are three ways of splitting nums into two non-empty parts:  
+- Split nums at index 0. Then, the first part is [10], and its sum is 10. The second part is [4,-8,7], and its sum is 3. Since 10 >= 3, i = 0 is a valid split.  
+- Split nums at index 1. Then, the first part is [10,4], and its sum is 14. The second part is [-8,7], and its sum is -1. Since 14 >= -1, i = 1 is a valid split.  
+- Split nums at index 2. Then, the first part is [10,4,-8], and its sum is 6. The second part is [7], and its sum is 7. Since 6 < 7, i = 2 is not a valid split.  
+Thus, the number of valid splits in nums is 2.
 
 ### Example 2:
-**Input**:  
-`words = ["a", "e", "i"]`  
-`queries = [[0,2], [0,1], [2,2]]`  
-
-**Output**:  
-`[3, 2, 1]`
-
-**Explanation**:  
-Every string satisfies the conditions, so the answers are `[3, 2, 1]`.
-
----
+**Input:** nums = [2,3,1,0]  
+**Output:** 2  
+**Explanation:**  
+There are two valid splits in nums:  
+- Split nums at index 1. Then, the first part is [2,3], and its sum is 5. The second part is [1,0], and its sum is 1. Since 5 >= 1, i = 1 is a valid split.  
+- Split nums at index 2. Then, the first part is [2,3,1], and its sum is 6. The second part is [0], and its sum is 0. Since 6 >= 0, i = 2 is a valid split.
 
 ## Constraints
-- `1 <= words.length <= 10^5`
-- `1 <= words[i].length <= 40`
-- `words[i]` consists only of lowercase English letters.
-- `sum(words[i].length) <= 3 * 10^5`
-- `1 <= queries.length <= 10^5`
-- `0 <= li <= ri < words.length`
+- 2 <= nums.length <= 10⁵
+- -10⁵ <= nums[i] <= 10⁵
