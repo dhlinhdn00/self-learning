@@ -1,4 +1,4 @@
-# Number of Ways to Split Array
+# Unique Length-3 Palindromic Subsequences
 
 ## Link
 Index: 1930
