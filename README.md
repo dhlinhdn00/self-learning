@@ -23,5 +23,6 @@ Starting from 2025, I aim to consistently work on algorithmic problems every day
 - **03 January 2025**: [LeetCode/Medium/Number of Ways to Split Array](./LeetCode/Medium/Number%20of%20Ways%20to%20Split%20Array)
 - **04 January 2025**: [LeetCode/Medium/Unique Length-3 Palindromic Subsequences](./LeetCode/Medium/Unique%20Length-3%20Palindromic%20Subsequences)
 - **05 January 2025**: [LeetCode/Medium/Shifting Letters II](./LeetCode/Medium/Shifting%20Lett%20II)
+- **06 January 2025**: 
 ---
 
