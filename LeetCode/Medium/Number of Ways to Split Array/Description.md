@@ -1,6 +1,6 @@
 # Number of Ways to Split Array
 
-## Link
+## Info
 Index: 2270
 
 Link: https://leetcode.com/problems/number-of-ways-to-split-array/description/?envType=daily-question&envId=2025-01-03

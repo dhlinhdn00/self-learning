@@ -1,6 +1,6 @@
 # Maximum Score After Splitting a String
 
-## Link
+## Info
 Index: 1422
 
 Link: https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/?envType=daily-question&envId=2025-01-01

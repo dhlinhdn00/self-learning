@@ -1,6 +1,6 @@
 # Minimum Number of Operations to Move All Balls to Each Box
 
-## Link
+## Info
 **Index**: 1769
 
 **Link**: https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/?envType=daily-question&envId=2025-01-06
@@ -21,7 +21,9 @@ Each answer[i] is calculated considering the initial state of the boxes.
 ### Example 1:
 
 Input: boxes = "110"
+
 Output: [1,1,3]
+
 Explanation: The answer for each box is as follows:
 1) First box: you will have to move one ball from the second box to the first box in one operation.
 2) Second box: you will have to move one ball from the first box to the second box in one operation.
@@ -30,7 +32,9 @@ Explanation: The answer for each box is as follows:
 ### Example 2:
 
 Input: boxes = "001011"
+
 Output: [11,8,5,4,3,4]
+
 
 ---
 
