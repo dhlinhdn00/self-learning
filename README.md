@@ -24,7 +24,7 @@ Starting from 2025, I aim to consistently work on algorithmic problems every day
 - **04 January 2025**: [LeetCode/Medium/Unique Length-3 Palindromic Subsequences](./LeetCode/Medium/Unique%20Length-3%20Palindromic%20Subsequences/)
 - **05 January 2025**: [LeetCode/Medium/Shifting Letters II](./LeetCode/Medium/Shifting%20Lett%20II)
 - **06 January 2025**: [LeetCode/Medium/Minimum Number of Operations to Move All Balls to Each Box](./LeetCode/Medium/Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box/)
-- **07 January 2025**:
-
+- **07 January 2025**: [LeetCode/Easy/String Matching in an Array](./LeetCode/Easy/String%20Matching%20in%20an%20Array/)
+- **08 January 2025**: 
 ---
 
