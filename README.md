@@ -26,5 +26,6 @@ Starting from 2025, I aim to consistently work on algorithmic problems every day
 - **06 January 2025**: [LeetCode/Medium/Minimum Number of Operations to Move All Balls to Each Box](./LeetCode/Medium/Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box/)
 - **07 January 2025**: [LeetCode/Easy/String Matching in an Array](./LeetCode/Easy/String%20Matching%20in%20an%20Array/)
 - **08 January 2025**: [LeetCode/Easy/Count Prefix and Suffix Pairs I](./LeetCode/Easy/Count%20Prefix%20and%20Suffix%20Pairs%20I/)
+- **09 January 2025**:
 ---
 
