@@ -29,5 +29,11 @@ Starting from 2025, I aim to consistently work on algorithmic problems every day
 - **09 January 2025**: [LeetCode/Easy/Counting Words With a Given Prefix](./LeetCode/Easy/Counting%20Words%20With%20a%20Given%20Prefix/)
 - **10 January 2025**:
 - **11 January 2025**:
+- **12 January 2025**:
+- **13 January 2025**:
+- **14 January 2025**:
+- **15 January 2025**:
+- **16 January 2025**:
+- **17 January 2025**:
 ---
 
