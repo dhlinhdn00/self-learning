@@ -34,6 +34,6 @@ Starting from 2025, I aim to consistently work on algorithmic problems every day
 - **14 January 2025**:
 - **15 January 2025**:
 - **16 January 2025**: [LeetCode/Medium/Bitwise XOR of All Pairings](./LeetCode/Medium/Bitwise%20XOR%20of%20All%20Pairings/)
-- **17 January 2025**: 
+- **17 January 2025**: [leetCode/Medium/Neighboring Bitwise XOR](./LeetCode/Medium/Neighboring%20Bitwise%20XOR/)
 ---
 
