@@ -28,11 +28,11 @@ Starting from 2025, I aim to consistently work on algorithmic problems every day
 - **08 January 2025**: [LeetCode/Easy/Count Prefix and Suffix Pairs I](./LeetCode/Easy/Count%20Prefix%20and%20Suffix%20Pairs%20I/)
 - **09 January 2025**: [LeetCode/Easy/Counting Words With a Given Prefix](./LeetCode/Easy/Counting%20Words%20With%20a%20Given%20Prefix/)
 - **10 January 2025**:
-- **11 January 2025**:
-- **12 January 2025**:
+- **11 January 2025**: 
+- **12 January 2025**: [LeetCode/Medium/Check if a Parentheses String Can Be Valid](./LeetCode/Medium/Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid/)
 - **13 January 2025**:
 - **14 January 2025**:
-- **15 January 2025**:
+- **15 January 2025**: [LeedCode/Medium/Minimize XOR](./LeetCode/Medium/Minimize%20XOR/)
 - **16 January 2025**: [LeetCode/Medium/Bitwise XOR of All Pairings](./LeetCode/Medium/Bitwise%20XOR%20of%20All%20Pairings/)
 - **17 January 2025**: [leetCode/Medium/Neighboring Bitwise XOR](./LeetCode/Medium/Neighboring%20Bitwise%20XOR/)
 ---
