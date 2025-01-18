@@ -28,7 +28,7 @@ I aim to consistently learn something every day. This will help maintain discipl
 - **16 January 2025**: [LeetCode/Medium/Bitwise XOR of All Pairings](./LeetCode/Medium/Bitwise%20XOR%20of%20All%20Pairings/)
 - **17 January 2025**: [LeetCode/Medium/Neighboring Bitwise XOR](./LeetCode/Medium/Neighboring%20Bitwise%20XOR/)
 - **18 January 2025**: [LeetCode/Hard/Minimum Cost to Make at Least One Valid Path in a Grid](./LeetCode/Hard/Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid/)
-
+- **19 January 2025**: 
 
 ---
 
