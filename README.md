@@ -1,20 +1,10 @@
-# Algorithm Practice
+# Self-Learning
 
-This repository is dedicated to my journey of improving problem-solving skills and mastering algorithms. It contains solutions to various algorithmic problems from platforms like CodeChef, CodeForces, GeeksforGeeks, HackerRank, and LeetCode. Most of the solutions are implemented in Python.
+Petit à petit l'oiseau fait son nid!
 
-## Structure
+## Goals
 
-The repository is organized into subdirectories for each platform, with further subdirectories for problem difficulty levels (e.g., Easy, Medium, Hard) where applicable. For example:
-
-- **CodeChef**
-- **CodeForces**
-- **GeeksforGeeks**
-- **HackerRank**
-- **LeetCode**
-
-## Goals for 2025
-
-Starting from 2025, I aim to consistently work on algorithmic problems every day. This will help maintain discipline and improve my proficiency over time.
+I aim to consistently learn something every day. This will help maintain discipline and improve my proficiency over time.
 
 ### Progress in 2025
 
