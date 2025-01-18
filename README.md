@@ -30,7 +30,7 @@ Starting from 2025, I aim to consistently work on algorithmic problems every day
 - **10 January 2025**:
 - **11 January 2025**: 
 - **12 January 2025**: [LeetCode/Medium/Check if a Parentheses String Can Be Valid](./LeetCode/Medium/Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid/)
-- **13 January 2025**:
+- **13 January 2025**: [LeetCode/Medium/Minumum Length of String After Operations](./LeetCode/Medium/Minimum%20Length%20of%20String%20After%20Operations/)
 - **14 January 2025**: [LeetCode/Medium/Find the Prefix Common Array of Two Arrays](./LeetCode/Medium/Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays/)
 - **15 January 2025**: [LeetCode/Medium/Minimize XOR](./LeetCode/Medium/Minimize%20XOR/)
 - **16 January 2025**: [LeetCode/Medium/Bitwise XOR of All Pairings](./LeetCode/Medium/Bitwise%20XOR%20of%20All%20Pairings/)
