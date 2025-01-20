@@ -1,7 +1,7 @@
 #!/bin/bash
 
-FILE_NAME="Solutions.c++"
-OUTPUT_NAME="Solutions"
+FILE_NAME="Implementation.c++"
+OUTPUT_NAME="Implementation"
 
 if [ ! -f "$FILE_NAME" ]; then
     echo "Error: $FILE_NAME not found!"
