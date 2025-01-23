@@ -30,5 +30,7 @@ I aim to consistently learn something every day. This will help maintain discipl
 - **18 January 2025**: [LeetCode/Hard/Minimum Cost to Make at Least One Valid Path in a Grid](./LeetCode/Hard/Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid/)
 - **19 January 2025**: 
 
+...
+- **Uncompleted**: Algorithm/LeetCode/Medium/First Completely Painted Row or Column; Algorithm/LeetCode/Hard; DataStructures/Tree
 ---
 
