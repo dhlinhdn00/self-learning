@@ -5,4 +5,3 @@ We are given an initial string consisting of distinct characters (L1, L2, L3 ...
 
 
 
-
