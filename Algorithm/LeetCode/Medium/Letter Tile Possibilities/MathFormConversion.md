@@ -8,4 +8,4 @@ $$
 \frac{\left(\sum x_i \right)!}{x_1! \, x_2! \, \dots \, x_n!}
 $$
 
-![Math Formula Explanation]("./Algorithm/LeetCode/Medium/Letter%20Tile%20Possibilities/MathFormSolution.jpg")
+![Math Formula Explanation](Algorithm/LeetCode/Medium/Letter%20Tile%20Possibilities/MathFormSolution.jpg)
