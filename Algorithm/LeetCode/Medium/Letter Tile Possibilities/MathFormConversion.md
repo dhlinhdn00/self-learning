@@ -4,8 +4,9 @@ We are given an initial string consisting of distinct characters (L1, L2, L3 ...
 ## Solution
 
 $$
-\sum_{\substack{0 \leq x_i \leq c_i \\ \sum x_i \neq 0}} 
-\frac{\left(\sum x_i \right)!}{x_1! \, x_2! \, \dots \, x_n!}
+\sum_{\substack{0 \leq k_i \leq c_i \\ \sum k_i \neq 0}} 
+\frac{\left(\sum k_i \right)!}{k_1! \, k_2! \, \dots \, k_n!}
 $$
 
+## Detail
 ![Math Formula Explanation](MathFormSolution.jpg)
