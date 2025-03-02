@@ -3,4 +3,7 @@ We are given an initial string consisting of distinct characters (L1, L2, L3 ...
 
 ## Solution
 
-Unsolve
+$$
+\sum_{\substack{0 \le x_i \le c_i \\ \sum x_i \neq 0}} 
+\frac{(x_1 + x_2 + \dots + x_n)!}{x_1! \, x_2! \, \dots \, x_n!}
+$$
