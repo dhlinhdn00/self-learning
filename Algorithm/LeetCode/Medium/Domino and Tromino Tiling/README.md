@@ -42,4 +42,4 @@ In a tiling, every square must be covered by a tile. Two tilings are different i
 
 ## CONTRAINTS
 
-1 $\leq$ n $\leq$ 1000
+- 1 $\leq$ n $\leq$ 1000
