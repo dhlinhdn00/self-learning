@@ -1,8 +1,8 @@
-# Find Minimum Time to Reach Last Room I
+# Find Minimum Time to Reach Last Room II
 
 ## INFO
 
-**Index**: 3341
+**Index**: 3342
 
 **Level**: Medium
 
@@ -25,7 +25,7 @@ Two rooms are **adjacent** if they share a common wall, either *horizontally* or
 
     Input: moveTime = [[0,4],[4,4]]
 
-    Output: 6
+    Output: 7
 
     Explanation:
 
