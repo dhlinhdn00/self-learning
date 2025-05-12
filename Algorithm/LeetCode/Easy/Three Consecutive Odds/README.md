@@ -1,4 +1,4 @@
-# Count Number of Balanced Permutation
+# Three Consecutive Odds
 
 ## INFO
 
