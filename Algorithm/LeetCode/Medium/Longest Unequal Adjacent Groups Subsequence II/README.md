@@ -22,6 +22,7 @@ You need to select the **longest** subsequence from an arrray of indices `[0, 1,
 
 - $words[i_j]$ and $words[i_{j+1}]$ are **equal** in length, and the **hamming distance** between them is `1`, where 0 < j + 1 < k, for all indices in the subsequence.
 
+Return *a string array containing the words corresponding to the indices **(in order)** in the selected subsequence*. If there are multiple answers, return *any of them*.
 **Note**: strings in `words` may be **unequal** in length.
 
 ## EXAMPLE
