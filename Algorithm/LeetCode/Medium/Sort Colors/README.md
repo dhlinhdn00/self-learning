@@ -6,7 +6,7 @@
 
 **Level**: Medium
 
-**Link**: [Daily Question 2025-05-18](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/?envType=daily-question&envId=2025-05-18)
+**Link**: [Daily Question 2025-05-17](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/?envType=daily-question&envId=2025-05-17)
 
 ---
 
