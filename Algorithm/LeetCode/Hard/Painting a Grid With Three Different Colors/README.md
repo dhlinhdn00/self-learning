@@ -6,7 +6,7 @@
 
 **Level**: Hard
 
-**Link**: [Daily Question 2025-05-18](https://leetcode.com/problems/domino-and-tromino-tiling/description/?envType=daily-question&envId=2025-05-18)
+**Link**: [Daily Question 2025-05-18](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/?envType=daily-question&envId=2025-05-18)
 
 ---
 

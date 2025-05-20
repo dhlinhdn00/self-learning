@@ -6,7 +6,7 @@
 
 **Level**: Easy
 
-**Link**: [Daily Question 2025-05-19](https://leetcode.com/problems/finding-3-digit-even-numbers/description/?envType=daily-question&envId=2025-05-19)
+**Link**: [Daily Question 2025-05-19](https://leetcode.com/problems/type-of-triangle/?envType=daily-question&envId=2025-05-19)
 
 ---
 

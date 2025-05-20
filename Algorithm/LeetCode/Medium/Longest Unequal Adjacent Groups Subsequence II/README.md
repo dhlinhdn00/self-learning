@@ -1,4 +1,4 @@
-# Longest Unequal Adjacent Groups Subsequence
+# Longest Unequal Adjacent Groups Subsequence II
 
 ## INFO
 
