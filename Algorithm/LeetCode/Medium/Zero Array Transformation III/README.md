@@ -1,0 +1,68 @@
+# Zero Array Transformation III
+
+## INFO
+
+**Index**: 3362
+
+**Level**: Medium
+
+**Link**: [Daily Question 2025-05-20](https://leetcode.com/problems/zero-array-transformation-i/description/?envType=daily-question&envId=2025-05-20)
+
+---
+
+## DESCRIPTION
+
+You are given an integer array nums of length `n` and a 2D array `queries`, where `queries[i] = [li, ri]`.
+
+For each `queries[i]` represents the following action on `nums`:
+
+- Decrement the values at each index in the range `[li, ri]` in `nums`by **at most** 1.
+- The amount by which the value is decremented can be chosen **independently** for each index.
+
+A **Zero Array** is an array where all elements are equal to 0.
+
+Return the **maximum** number of elements that can be removed from `queries`, such that `nums` can still be converted to a **zero array** using the _remaining_ queries. If it is not possible to convert `nums` to a **zero array**, return -1.
+
+## EXAMPLE
+
+### Example 1:
+
+    Input: nums = [2,0,2], queries = [[0,2], [0,2], [1,1]]
+
+    Output: 1
+
+    Explanation:
+
+    After removing `queriese[2]`, `nums` can still be converted to a zero array.
+    - Using `queries[0]`, decrement nums[0] and nums[2] by 1 and `nums[1]` by 0.
+    - Using `queries[1]`, decrement nums[0] and nums[2] by 1 and `nums[1] by 0.
+
+### Example 2:
+
+    Input: nums = [1,1,1,1], queries = [[1,3],[0,2],[1,3],[1,2]]
+
+    Output: 2
+
+    Explanation:
+
+    We can remove queries[2] and queries[3].
+
+### Example 3:
+
+    Input: nums = [1,2,3,4], queries = [[0,3]]
+
+    Output: -1
+
+    Explanation:
+
+    `nums` cannot be converted to a zero array even after using all the queries.
+
+---
+
+## CONTRAINTS
+
+- `1 <= nums.length <= 10^5`
+- `0 <= nums[i] <= 10^5`
+- `1 <= queries.length <= 10^5`
+- `queries[i].length == 2`
+- `0 <= li <= ri < nums.length`
